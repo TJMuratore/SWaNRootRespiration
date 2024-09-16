@@ -1,0 +1,208 @@
+Plot,Depth,Depth1,Treatment,Heat,N,RootType,Biomass
+1,OHorizon,OHorizon,Control,0,0,Absorptive,140.5065
+2,OHorizon,OHorizon,Heated,1,0,Absorptive,65.455
+3,OHorizon,OHorizon,Heated x N,1,1,Absorptive,64.48
+4,OHorizon,OHorizon,Heated x N,1,1,Absorptive,58.555
+5,OHorizon,OHorizon,Heated,1,0,Absorptive,106.935
+6,OHorizon,OHorizon,Nitrogen,0,1,Absorptive,80.2
+7,OHorizon,OHorizon,Heated x N,1,1,Absorptive,17.885
+8,OHorizon,OHorizon,Heated,1,0,Absorptive,75.55
+9,OHorizon,OHorizon,Nitrogen,0,1,Absorptive,75.74
+10,OHorizon,OHorizon,Heated x N,1,1,Absorptive,71.735
+11,OHorizon,OHorizon,Nitrogen,0,1,Absorptive,63.065
+12,OHorizon,OHorizon,Control,0,0,Absorptive,75.105
+13,OHorizon,OHorizon,Heated,1,0,Absorptive,84.5
+14,OHorizon,OHorizon,Control,0,0,Absorptive,159.28
+15,OHorizon,OHorizon,Heated x N,1,1,Absorptive,82.39
+16,OHorizon,OHorizon,Nitrogen,0,1,Absorptive,90.4
+17,OHorizon,OHorizon,Heated x N,1,1,Absorptive,56.525
+18,OHorizon,OHorizon,Heated,1,0,Absorptive,86.26
+19,OHorizon,OHorizon,Control,0,0,Absorptive,60.975
+20,OHorizon,OHorizon,Control,0,0,Absorptive,85.11
+21,OHorizon,OHorizon,Nitrogen,0,1,Absorptive,66.46
+23,OHorizon,OHorizon,Nitrogen,0,1,Absorptive,97.985
+24,OHorizon,OHorizon,Control,0,0,Absorptive,162.16
+1,0-10cm,Mineral,Control,0,0,Absorptive,22.13375796
+2,0-10cm,Mineral,Heated,1,0,Absorptive,25.21231423
+3,0-10cm,Mineral,Heated x N,1,1,Absorptive,14.82661005
+4,0-10cm,Mineral,Heated x N,1,1,Absorptive,36.58881812
+5,0-10cm,Mineral,Heated,1,0,Absorptive,16.38358103
+6,0-10cm,Mineral,Nitrogen,0,1,Absorptive,16.27742392
+7,0-10cm,Mineral,Heated x N,1,1,Absorptive,14.72045294
+8,0-10cm,Mineral,Heated,1,0,Absorptive,33.76857749
+9,0-10cm,Mineral,Nitrogen,0,1,Absorptive,22.55838641
+10,0-10cm,Mineral,Heated x N,1,1,Absorptive,13.46426044
+11,0-10cm,Mineral,Nitrogen,0,1,Absorptive,36.64189667
+12,0-10cm,Mineral,Control,0,0,Absorptive,48.7438075
+13,0-10cm,Mineral,Heated,1,0,Absorptive,18.54210899
+14,0-10cm,Mineral,Control,0,0,Absorptive,10.73956122
+15,0-10cm,Mineral,Heated x N,1,1,Absorptive,25.61924982
+16,0-10cm,Mineral,Nitrogen,0,1,Absorptive,23.84996461
+17,0-10cm,Mineral,Heated x N,1,1,Absorptive,15.09200283
+18,0-10cm,Mineral,Heated,1,0,Absorptive,15.10969568
+19,0-10cm,Mineral,Control,0,0,Absorptive,18.91365888
+20,0-10cm,Mineral,Control,0,0,Absorptive,9.978768577
+21,0-10cm,Mineral,Nitrogen,0,1,Absorptive,17.62208068
+23,0-10cm,Mineral,Nitrogen,0,1,Absorptive,6.263269639
+24,0-10cm,Mineral,Control,0,0,Absorptive,17.07360226
+1,10-20cm,Mineral,Control,0,0,Absorptive,35.20877565
+2,10-20cm,Mineral,Heated,1,0,Absorptive,23.67303609
+3,10-20cm,Mineral,Heated x N,1,1,Absorptive,9.961075725
+4,10-20cm,Mineral,Heated x N,1,1,Absorptive,36.64189667
+5,10-20cm,Mineral,Heated,1,0,Absorptive,17.48053786
+6,10-20cm,Mineral,Nitrogen,0,1,Absorptive,33.54564756
+7,10-20cm,Mineral,Heated x N,1,1,Absorptive,5.962491154
+8,10-20cm,Mineral,Heated,1,0,Absorptive,62.40268931
+9,10-20cm,Mineral,Nitrogen,0,1,Absorptive,
+10,10-20cm,Mineral,Heated x N,1,1,Absorptive,6.740976645
+11,10-20cm,Mineral,Nitrogen,0,1,Absorptive,35.58032555
+12,10-20cm,Mineral,Control,0,0,Absorptive,19.76291578
+13,10-20cm,Mineral,Heated,1,0,Absorptive,45.20523708
+14,10-20cm,Mineral,Control,0,0,Absorptive,27.60084926
+15,10-20cm,Mineral,Heated x N,1,1,Absorptive,32.27176221
+16,10-20cm,Mineral,Nitrogen,0,1,Absorptive,43.06440198
+17,10-20cm,Mineral,Heated x N,1,1,Absorptive,28.09624912
+18,10-20cm,Mineral,Heated,1,0,Absorptive,36.46496815
+19,10-20cm,Mineral,Control,0,0,Absorptive,33.03255485
+20,10-20cm,Mineral,Control,0,0,Absorptive,22.009908
+21,10-20cm,Mineral,Nitrogen,0,1,Absorptive,28.59164897
+23,10-20cm,Mineral,Nitrogen,0,1,Absorptive,23.77919321
+24,10-20cm,Mineral,Control,0,0,Absorptive,45.3467799
+1,OHorizon,OHorizon,Control,0,0,Transport,110.247
+2,OHorizon,OHorizon,Heated,1,0,Transport,63.535
+3,OHorizon,OHorizon,Heated x N,1,1,Transport,53.715
+4,OHorizon,OHorizon,Heated x N,1,1,Transport,38.54
+5,OHorizon,OHorizon,Heated,1,0,Transport,42.12
+6,OHorizon,OHorizon,Nitrogen,0,1,Transport,112.71
+7,OHorizon,OHorizon,Heated x N,1,1,Transport,37.97
+8,OHorizon,OHorizon,Heated,1,0,Transport,58.065
+9,OHorizon,OHorizon,Nitrogen,0,1,Transport,79.048
+10,OHorizon,OHorizon,Heated x N,1,1,Transport,68.165
+11,OHorizon,OHorizon,Nitrogen,0,1,Transport,128.18
+12,OHorizon,OHorizon,Control,0,0,Transport,111.92
+13,OHorizon,OHorizon,Heated,1,0,Transport,35
+14,OHorizon,OHorizon,Control,0,0,Transport,175.8525
+15,OHorizon,OHorizon,Heated x N,1,1,Transport,112.27
+16,OHorizon,OHorizon,Nitrogen,0,1,Transport,126.42
+17,OHorizon,OHorizon,Heated x N,1,1,Transport,53.355
+18,OHorizon,OHorizon,Heated,1,0,Transport,69.71
+19,OHorizon,OHorizon,Control,0,0,Transport,110
+20,OHorizon,OHorizon,Control,0,0,Transport,158.405
+21,OHorizon,OHorizon,Nitrogen,0,1,Transport,140.095
+23,OHorizon,OHorizon,Nitrogen,0,1,Transport,177.81
+24,OHorizon,OHorizon,Control,0,0,Transport,174.09
+1,0-10cm,Mineral,Control,0,0,Transport,111.7480538
+2,0-10cm,Mineral,Heated,1,0,Transport,37.56192498
+3,0-10cm,Mineral,Heated x N,1,1,Transport,33.77565464
+4,0-10cm,Mineral,Heated x N,1,1,Transport,45.61217268
+5,0-10cm,Mineral,Heated,1,0,Transport,18.6482661
+6,0-10cm,Mineral,Nitrogen,0,1,Transport,91.41896674
+7,0-10cm,Mineral,Heated x N,1,1,Transport,77.74239207
+8,0-10cm,Mineral,Heated,1,0,Transport,29.01627742
+9,0-10cm,Mineral,Nitrogen,0,1,Transport,63.30502477
+10,0-10cm,Mineral,Heated x N,1,1,Transport,26.99929229
+11,0-10cm,Mineral,Nitrogen,0,1,Transport,119.9929229
+12,0-10cm,Mineral,Control,0,0,Transport,66.985138
+13,0-10cm,Mineral,Heated,1,0,Transport,86.57112527
+14,0-10cm,Mineral,Control,0,0,Transport,50.97310686
+15,0-10cm,Mineral,Heated x N,1,1,Transport,52.1408351
+16,0-10cm,Mineral,Nitrogen,0,1,Transport,47.43453645
+17,0-10cm,Mineral,Heated x N,1,1,Transport,40.51663128
+18,0-10cm,Mineral,Heated,1,0,Transport,13.03963199
+19,0-10cm,Mineral,Control,0,0,Transport,38.97735315
+20,0-10cm,Mineral,Control,0,0,Transport,119.7098372
+21,0-10cm,Mineral,Nitrogen,0,1,Transport,109.0233546
+23,0-10cm,Mineral,Nitrogen,0,1,Transport,35.04953999
+24,0-10cm,Mineral,Control,0,0,Transport,84.87261146
+1,10-20cm,Mineral,Control,0,0,Transport,34.73106865
+2,10-20cm,Mineral,Heated,1,0,Transport,15.08189263
+3,10-20cm,Mineral,Heated x N,1,1,Transport,0
+4,10-20cm,Mineral,Heated x N,1,1,Transport,8.864118896
+5,10-20cm,Mineral,Heated,1,0,Transport,5.307855626
+6,10-20cm,Mineral,Nitrogen,0,1,Transport,11.48771611
+7,10-20cm,Mineral,Heated x N,1,1,Transport,19.78060863
+8,10-20cm,Mineral,Heated,1,0,Transport,21.30219391
+9,10-20cm,Mineral,Nitrogen,0,1,Transport,
+10,10-20cm,Mineral,Heated x N,1,1,Transport,1.769285209
+11,10-20cm,Mineral,Nitrogen,0,1,Transport,60.77494692
+12,10-20cm,Mineral,Control,0,0,Transport,22.02780064
+13,10-20cm,Mineral,Heated,1,0,Transport,21.39065817
+14,10-20cm,Mineral,Control,0,0,Transport,31.17480538
+15,10-20cm,Mineral,Heated x N,1,1,Transport,0
+16,10-20cm,Mineral,Nitrogen,0,1,Transport,69.42085397
+17,10-20cm,Mineral,Heated x N,1,1,Transport,64.38428875
+18,10-20cm,Mineral,Heated,1,0,Transport,12.98655343
+19,10-20cm,Mineral,Control,0,0,Transport,53.92781316
+20,10-20cm,Mineral,Control,0,0,Transport,25.39808917
+21,10-20cm,Mineral,Nitrogen,0,1,Transport,6.248597518
+23,10-20cm,Mineral,Nitrogen,0,1,Transport,26.5433611
+24,10-20cm,Mineral,Control,0,0,Transport,25.4423213
+1,OHorizon,OHorizon,Control,0,0,TRB,250.7535
+2,OHorizon,OHorizon,Heated,1,0,TRB,128.99
+3,OHorizon,OHorizon,Heated x N,1,1,TRB,118.195
+4,OHorizon,OHorizon,Heated x N,1,1,TRB,97.095
+5,OHorizon,OHorizon,Heated,1,0,TRB,149.055
+6,OHorizon,OHorizon,Nitrogen,0,1,TRB,192.91
+7,OHorizon,OHorizon,Heated x N,1,1,TRB,55.855
+8,OHorizon,OHorizon,Heated,1,0,TRB,133.615
+9,OHorizon,OHorizon,Nitrogen,0,1,TRB,154.788
+10,OHorizon,OHorizon,Heated x N,1,1,TRB,139.9
+11,OHorizon,OHorizon,Nitrogen,0,1,TRB,191.245
+12,OHorizon,OHorizon,Control,0,0,TRB,187.025
+13,OHorizon,OHorizon,Heated,1,0,TRB,119.5
+14,OHorizon,OHorizon,Control,0,0,TRB,335.1325
+15,OHorizon,OHorizon,Heated x N,1,1,TRB,194.66
+16,OHorizon,OHorizon,Nitrogen,0,1,TRB,216.82
+17,OHorizon,OHorizon,Heated x N,1,1,TRB,109.88
+18,OHorizon,OHorizon,Heated,1,0,TRB,155.97
+19,OHorizon,OHorizon,Control,0,0,TRB,170.975
+20,OHorizon,OHorizon,Control,0,0,TRB,243.515
+21,OHorizon,OHorizon,Nitrogen,0,1,TRB,206.555
+23,OHorizon,OHorizon,Nitrogen,0,1,TRB,275.795
+24,OHorizon,OHorizon,Control,0,0,TRB,336.25
+1,0-10cm,Mineral,Control,0,0,TRB,133.8818118
+2,0-10cm,Mineral,Heated,1,0,TRB,62.77423921
+3,0-10cm,Mineral,Heated x N,1,1,TRB,48.60226469
+4,0-10cm,Mineral,Heated x N,1,1,TRB,82.2009908
+5,0-10cm,Mineral,Heated,1,0,TRB,35.03184713
+6,0-10cm,Mineral,Nitrogen,0,1,TRB,107.6963907
+7,0-10cm,Mineral,Heated x N,1,1,TRB,92.46284501
+8,0-10cm,Mineral,Heated,1,0,TRB,62.78485491
+9,0-10cm,Mineral,Nitrogen,0,1,TRB,85.86341118
+10,0-10cm,Mineral,Heated x N,1,1,TRB,40.46355273
+11,0-10cm,Mineral,Nitrogen,0,1,TRB,156.6348196
+12,0-10cm,Mineral,Control,0,0,TRB,115.7289455
+13,0-10cm,Mineral,Heated,1,0,TRB,105.1132343
+14,0-10cm,Mineral,Control,0,0,TRB,61.71266808
+15,0-10cm,Mineral,Heated x N,1,1,TRB,77.76008492
+16,0-10cm,Mineral,Nitrogen,0,1,TRB,71.28450106
+17,0-10cm,Mineral,Heated x N,1,1,TRB,55.60863411
+18,0-10cm,Mineral,Heated,1,0,TRB,28.14932767
+19,0-10cm,Mineral,Control,0,0,TRB,57.89101203
+20,0-10cm,Mineral,Control,0,0,TRB,129.6886058
+21,0-10cm,Mineral,Nitrogen,0,1,TRB,126.6454353
+23,0-10cm,Mineral,Nitrogen,0,1,TRB,41.31280963
+24,0-10cm,Mineral,Control,0,0,TRB,101.9462137
+1,10-20cm,Mineral,Control,0,0,TRB,69.9398443
+2,10-20cm,Mineral,Heated,1,0,TRB,38.75492872
+3,10-20cm,Mineral,Heated x N,1,1,TRB,9.961075725
+4,10-20cm,Mineral,Heated x N,1,1,TRB,45.50601557
+5,10-20cm,Mineral,Heated,1,0,TRB,22.78839349
+6,10-20cm,Mineral,Nitrogen,0,1,TRB,45.03336367
+7,10-20cm,Mineral,Heated x N,1,1,TRB,25.74309978
+8,10-20cm,Mineral,Heated,1,0,TRB,83.70488322
+9,10-20cm,Mineral,Nitrogen,0,1,TRB,
+10,10-20cm,Mineral,Heated x N,1,1,TRB,8.510261854
+11,10-20cm,Mineral,Nitrogen,0,1,TRB,96.35527247
+12,10-20cm,Mineral,Control,0,0,TRB,41.79071642
+13,10-20cm,Mineral,Heated,1,0,TRB,66.59589525
+14,10-20cm,Mineral,Control,0,0,TRB,58.77565464
+15,10-20cm,Mineral,Heated x N,1,1,TRB,32.27176221
+16,10-20cm,Mineral,Nitrogen,0,1,TRB,112.485256
+17,10-20cm,Mineral,Heated x N,1,1,TRB,92.48053787
+18,10-20cm,Mineral,Heated,1,0,TRB,49.45152158
+19,10-20cm,Mineral,Control,0,0,TRB,86.96036801
+20,10-20cm,Mineral,Control,0,0,TRB,47.40799717
+21,10-20cm,Mineral,Nitrogen,0,1,TRB,34.84024649
+23,10-20cm,Mineral,Nitrogen,0,1,TRB,50.32255431
+24,10-20cm,Mineral,Control,0,0,TRB,70.7891012
